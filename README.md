@@ -1,31 +1,21 @@
 # Hey there! I'm Marcos
 
-I am Marcos, a 22 year old graduate computer engineer who is currently expanding his knowledge in the area of mathematical modelling and Big Data.
+I am Marcos, a 22 year old graduate computer engineer who is currently expanding his knowledge in the area of mathematical modelling and Big Data. Thanks to GandalFran for leaving me his README :point_right: <a href="https://github.com/GandalFran"><img alt="LinkedIn" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 ## :thought_balloon: About Me
 - 📚 Studying a mathematical modelling master's degree at the University of Salamanca.
 - :technologist: Working as researcher in the area of Big Data, and Fullstack developer at BISITE research group.
 - 🌱 Currently deepening my knowledge of Big Data, and learning about ML techniques.
-<!--
-**MarcosSevert/MarcosSevert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🛠 My tech stack
+- 🌐: <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" /> 
+- 💻: <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /><img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" /><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+- 🛢: <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+- 🔧: <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white" /><img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosSevert&show_icons=true&theme=gruvbox" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSevert&hide=css,html,PostScript&layout=compact" />
-</a>
+## 🚀 Some stats
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSevert&layout=compact&hide=PostScript,html,css,Ada,Makefile&langs_count=40)](https://github.com/anuraghazra/github-readme-stats)
+  ![GandalFran's github stats](https://github-readme-stats.vercel.app/api?username=MarcosSevert&count_private=true)
 
 
 ## 📫 How to contact me
