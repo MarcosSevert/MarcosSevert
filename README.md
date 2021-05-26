@@ -14,7 +14,7 @@ I am Marcos, a 22 year old graduate computer engineer who is currently expanding
 - 🔧: <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white" /><img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white">
 
 ## 🚀 Some stats
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSevert&layout=compact&hide=PostScript,html,css,Ada,Makefile&langs_count=40)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSevert&layout=compact&count_private=true&hide=PostScript,html,css,Ada,Makefile&langs_count=40)](https://github.com/anuraghazra/github-readme-stats)
   ![GandalFran's github stats](https://github-readme-stats.vercel.app/api?username=MarcosSevert&count_private=true)
 
 
