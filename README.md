@@ -1,6 +1,6 @@
 # Hey there! I'm Marcos
 
-I am Marcos, a 22 year old graduate computer engineer who is currently expanding his knowledge in the area of mathematical modelling and Big Data. Thanks to GandalFran for leaving me his README :point_right: <a href="https://github.com/GandalFran"><img alt="LinkedIn" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+I am Marcos, a 22 year old graduate computer engineer who is currently expanding his knowledge in the area of mathematical modelling and Big Data. 
 
 ## :thought_balloon: About Me
 - 📚 Studying a mathematical modelling master's degree at the University of Salamanca.
