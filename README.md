@@ -4,6 +4,7 @@ I am Marcos, a 22 year old graduate software engineer who is currently expanding
 
 ## :thought_balloon: About Me
 - 📚 Studying a mathematical modelling master's degree at the University of Salamanca.
+- :electric_plug: Studying Verilog to model electronic systems in my spare time.
 - :technologist: Working as researcher in the area of Big Data, and Fullstack developer at BISITE research group.
 - 🌱 Currently deepening my knowledge of Big Data, and learning about ML techniques.
 
