@@ -1,6 +1,6 @@
 # Hey there! I'm Marcos
 
-I am Marcos, a 22 year old graduate computer engineer who is currently expanding his knowledge in the area of mathematical modelling and Big Data. 
+I am Marcos, a 22 year old graduate software engineer who is currently expanding his knowledge in the area of Mathematical Modelling and Big Data. 
 
 ## :thought_balloon: About Me
 - 📚 Studying a mathematical modelling master's degree at the University of Salamanca.
