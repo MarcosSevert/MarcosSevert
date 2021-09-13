@@ -3,9 +3,8 @@
 I am Marcos, a 22 year old graduate software engineer who is currently expanding his knowledge in the area of Mathematical Modelling and Big Data. 
 
 ## :thought_balloon: About Me
-- 📚 Studying a mathematical modelling master's degree at the University of Salamanca.
-- :electric_plug: Studying Verilog to model electronic systems in my spare time.
-- :technologist: Working as researcher in the area of Big Data, and Fullstack developer at BISITE research group.
+- :speech_balloon: Currently studying Data Science and IBM's "Python for Data Science" accreditation in my spare time.
+- :technologist: Working as software developer in the area of Big Data, and Fullstack developer at BISITE research group.
 - 🌱 Currently deepening my knowledge of Big Data, and learning about ML techniques.
 
 ## 🛠 My tech stack
