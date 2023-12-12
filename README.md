@@ -1,10 +1,10 @@
 # Hey there! I'm Marcos
 
-I am Marcos, a 23 year old graduate software engineer who is currently expanding his knowledge in the area of ML and Big Data. 
+I am Marcos, a 25 year old graduate software engineer who is currently expanding his knowledge in the area of ML and Big Data. 
 
 ## :thought_balloon: About Me
-- :speech_balloon: Currently studying Data Science and IBM's "Python for Data Science" accreditation in my spare time.
-- :technologist: Working as software developer in the area of Big Data, and Fullstack developer at BISITE research group.
+- :speech_balloon: Currently completing a PhD in Computer Science with a specialisation in Reinforcement Learning.
+- :technologist: Currently working as a Backend Data Development Analyst at Experis IT.
 - 🌱 Currently deepening my knowledge of Big Data, and learning about ML techniques.
 
 ## 🛠 My tech stack
@@ -20,5 +20,4 @@ I am Marcos, a 23 year old graduate software engineer who is currently expanding
 
 ## 📫 How to contact me
 <p align="center">
-<a href="https://www.linkedin.com/in/marcos-severt-silva-66432b181/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:marcos_ss@usal.es"><img alt="email" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https:msevertsilva@gmail.com"><img alt="email" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
