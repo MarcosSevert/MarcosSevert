@@ -4,7 +4,7 @@ I am Marcos, a 25 year old graduate software engineer who is currently expanding
 
 ## :thought_balloon: About Me
 - :speech_balloon: Currently completing a PhD in Computer Science with a specialisation in Reinforcement Learning.
-- :technologist: Currently working as a Backend Data Development Analyst at Experis IT.
+- :technologist: Currently working as a Data Analyst at Experis IT.
 - 🌱 Currently deepening my knowledge of Big Data, and learning about ML techniques.
 
 ## 🛠 My tech stack
